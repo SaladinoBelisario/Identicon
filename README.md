@@ -19,3 +19,9 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/identicon>.
 
+
+## Identicon generation method
+
+The input for the identicon is a MD5 hash represented as a chain of bytes.
+
+![Generation Method](Generation_Method.png)
